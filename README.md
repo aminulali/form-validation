@@ -1,2 +1,1 @@
-# form-validation
-Form Validation Project
+Open: index.html --- style.css --- main.js
